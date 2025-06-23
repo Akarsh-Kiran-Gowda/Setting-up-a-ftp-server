@@ -1,6 +1,7 @@
 # Setting-up-a-ftp-server
 
-Learning and wanting to know more about networking, file transferring over the internet, I stumbled upon a **File-Transfer-Protocol** (FTP). I configuired a server, from which i could share and access files over the internet. This project was made to learn more about servers, firewalls, protocols, ports and how we access them, how we connect to devices over the internet and so on...... 
+Learning and wanting to know more about networking, file transferring over the internet, I stumbled upon a **File-Transfer-Protocol** (FTP). I configured
+ a server, from which i could share and access files over the internet. This project was made to learn more about servers, firewalls, protocols, ports and how we access them, how we connect to devices over the internet and so on...... 
 
 These were the steps I used to set up and establish a simple ftp server.
 
